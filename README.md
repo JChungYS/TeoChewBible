@@ -1,6 +1,6 @@
 # TeoChewBible
 
-I have been working on implementation of my research about engaging Chiense diaspora for Bible Translation.
+I have been implementation my research about engaging Chiense diaspora for Bible Translation.
 My sibling and I are descedndents of Teow Chew Chinese diaspora couple in Hong Kong.
 I would like to start translating Old Testament into Teow Chew. This project will quite likely be under GOSP4EL -- GLocal Open Soruce Projects for Evangelical Laities. I am looking for collaboration and certainly would appreciate your prayer.
 
