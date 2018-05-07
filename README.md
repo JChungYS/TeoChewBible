@@ -4,7 +4,9 @@ I have been working on implementation of my research about engaging Chiense dias
 My sibling and I are descedndents of Teow Chew Chinese diaspora couple in Hong Kong.
 I would like to start translating Old Testament into Teow Chew. This project will quite likely be under GOSP4EL -- GLocal Open Soruce Projects for Evangelical Laities. I am looking for collaboration and certainly would appreciate your prayer.
 
-Please pray about it or do soemthing for it or for other Bible Translation project
+Please pray about it or do soemthing for this project. 
+
+# Prayer request
 
 1. Good planning and strategy
 2. Engaging Teow Chew speaking church, fellowship and individuals
