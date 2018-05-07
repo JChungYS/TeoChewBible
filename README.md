@@ -16,28 +16,28 @@ Please pray about it or do soemthing for it or for other Bible Translation proje
 
 
 
-##SWOT Analysis:
+## SWOT Analysis:
 
-###Strength:
-
-
-
-
-
-###Weakness:
+### Strength:
 
 
 
 
 
-###Opportunities:
+### Weakness:
+
+
+
+
+
+### Opportunities:
 
 
 
 
 
 
-###Threat:
+### Threat:
 
 
 
